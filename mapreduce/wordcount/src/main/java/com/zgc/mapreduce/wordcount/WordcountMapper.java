@@ -1,4 +1,4 @@
-package com.zgc.mapreduce.wrodcount;
+package com.zgc.mapreduce.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
